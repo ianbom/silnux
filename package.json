@@ -1,0 +1,43 @@
+{
+  "name": "solverra-estates",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "motion": "14.14.0",
+    "lucide-react": "^0.577.0",
+    "@radix-ui/react-accordion": "^1.2.12",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-slot": "^1.2.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.5.0"
+  },
+  "overrides": {
+    "typescript-eslint": "8.72.2",
+    "@typescript-eslint/typescript-estree": { "minimatch": "^11.0.1" },
+    "sharp": "$sharp"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.5",
+    "tailwindcss": "4.3.5",
+    "typescript": "^5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.4.6",
+    "@playwright/test": "^1.58.2",
+    "sharp": "^0.35.5"
+  }
+}

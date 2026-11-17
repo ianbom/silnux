@@ -1,0 +1,212 @@
+{
+  "general/sculpted-glass": {
+    "src": "/images/general/sculpted-glass.webp",
+    "width": 2400,
+    "height": 1567
+  },
+  "general/sunset-architecture": {
+    "src": "/images/general/sunset-architecture.webp",
+    "width": 2400,
+    "height": 1600
+  },
+  "general/water-and-stone": {
+    "src": "/images/general/water-and-stone.webp",
+    "width": 2400,
+    "height": 3279
+  },
+  "general/civic-entrance": {
+    "src": "/images/general/civic-entrance.webp",
+    "width": 2400,
+    "height": 1600
+  },
+  "general/curved-facade": {
+    "src": "/images/general/curved-facade.webp",
+    "width": 2400,
+    "height": 3600
+  },
+  "projects/solis-waterfront": {
+    "src": "/images/projects/solis-waterfront.webp",
+    "width": 1800,
+    "height": 1013
+  },
+  "projects/solis-terrace": {
+    "src": "/images/projects/solis-terrace.webp",
+    "width": 1800,
+    "height": 1013
+  },
+  "projects/solis-pool": {
+    "src": "/images/projects/solis-pool.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "projects/solis-garden": {
+    "src": "/images/projects/solis-garden.webp",
+    "width": 1800,
+    "height": 1013
+  },
+  "projects/liora-centre": {
+    "src": "/images/projects/liora-centre.webp",
+    "width": 1800,
+    "height": 1013
+  },
+  "projects/liora-atrium": {
+    "src": "/images/projects/liora-atrium.webp",
+    "width": 1800,
+    "height": 1350
+  },
+  "projects/liora-facade": {
+    "src": "/images/projects/liora-facade.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "projects/liora-meeting-room": {
+    "src": "/images/projects/liora-meeting-room.webp",
+    "width": 1800,
+    "height": 1778
+  },
+  "projects/veridian-towers": {
+    "src": "/images/projects/veridian-towers.webp",
+    "width": 1800,
+    "height": 1201
+  },
+  "projects/veridian-facade": {
+    "src": "/images/projects/veridian-facade.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "projects/veridian-corner": {
+    "src": "/images/projects/veridian-corner.webp",
+    "width": 1800,
+    "height": 2700
+  },
+  "projects/veridian-balconies": {
+    "src": "/images/projects/veridian-balconies.webp",
+    "width": 1800,
+    "height": 2400
+  },
+  "projects/caspia-villa": {
+    "src": "/images/projects/caspia-villa.webp",
+    "width": 1800,
+    "height": 1803
+  },
+  "projects/caspia-masterplan": {
+    "src": "/images/projects/caspia-masterplan.webp",
+    "width": 1800,
+    "height": 2400
+  },
+  "projects/meridian-residence": {
+    "src": "/images/projects/meridian-residence.webp",
+    "width": 1800,
+    "height": 1348
+  },
+  "projects/meridian-glazing": {
+    "src": "/images/projects/meridian-glazing.webp",
+    "width": 1800,
+    "height": 2715
+  },
+  "projects/meridian-brick-court": {
+    "src": "/images/projects/meridian-brick-court.webp",
+    "width": 1800,
+    "height": 1013
+  },
+  "properties/arlo-living": {
+    "src": "/images/properties/arlo-living.webp",
+    "width": 1800,
+    "height": 2700
+  },
+  "properties/arlo-terrace": {
+    "src": "/images/properties/arlo-terrace.webp",
+    "width": 1800,
+    "height": 2548
+  },
+  "properties/arlo-lounge": {
+    "src": "/images/properties/arlo-lounge.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "properties/arlo-evening": {
+    "src": "/images/properties/arlo-evening.webp",
+    "width": 1800,
+    "height": 2700
+  },
+  "properties/sienna-living": {
+    "src": "/images/properties/sienna-living.webp",
+    "width": 1800,
+    "height": 1350
+  },
+  "properties/sienna-fireplace": {
+    "src": "/images/properties/sienna-fireplace.webp",
+    "width": 1800,
+    "height": 2400
+  },
+  "properties/sienna-bedroom": {
+    "src": "/images/properties/sienna-bedroom.webp",
+    "width": 1800,
+    "height": 2963
+  },
+  "properties/sienna-kitchen": {
+    "src": "/images/properties/sienna-kitchen.webp",
+    "width": 1800,
+    "height": 2698
+  },
+  "properties/cove-living": {
+    "src": "/images/properties/cove-living.webp",
+    "width": 1800,
+    "height": 949
+  },
+  "properties/cove-open-plan": {
+    "src": "/images/properties/cove-open-plan.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "properties/cove-lounge": {
+    "src": "/images/properties/cove-lounge.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "properties/cove-reading-room": {
+    "src": "/images/properties/cove-reading-room.webp",
+    "width": 1800,
+    "height": 2700
+  },
+  "properties/oakline-loft": {
+    "src": "/images/properties/oakline-loft.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "properties/oakline-living": {
+    "src": "/images/properties/oakline-living.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "properties/oakline-studio": {
+    "src": "/images/properties/oakline-studio.webp",
+    "width": 1800,
+    "height": 1192
+  },
+  "properties/oakline-dining": {
+    "src": "/images/properties/oakline-dining.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "general/hillside-sunset-pool": {
+    "src": "/images/general/hillside-sunset-pool.webp",
+    "width": 2400,
+    "height": 3600
+  },
+  "projects/caspia-valley-house": {
+    "src": "/images/projects/caspia-valley-house.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  "projects/caspia-white-villa": {
+    "src": "/images/projects/caspia-white-villa.webp",
+    "width": 1800,
+    "height": 1194
+  },
+  "projects/meridian-evening-pavilion": {
+    "src": "/images/projects/meridian-evening-pavilion.webp",
+    "width": 1800,
+    "height": 1200
+  }
+}
